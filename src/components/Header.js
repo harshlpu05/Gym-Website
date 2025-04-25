@@ -6,7 +6,7 @@ const Header = () => {
     <div id='main'>
         <div className="name">
             <h2>STEP UP YOUR <span className='span'>FITNESS</span></h2>
-            <h1> WITH <span>MANI</span> GYM</h1>
+            <h1> WITH <span>FITNESS</span> GYM</h1>
             <p className="details">Unleash Your Potential and Elevate Your Fitness Journey with Us.</p>
             <div className="header-btns">
                 <Link to="contact" smooth={true} duration={1000} className='header-btn'>JOIN US
